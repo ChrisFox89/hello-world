@@ -1,3 +1,3 @@
 # hello-world
 test repository
-So easy ande useful
+So easy and useful, we'll save it like this.
